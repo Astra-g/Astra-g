@@ -25,3 +25,6 @@
 | [Дашборд продаж](ссылка) | Интерактивная визуализация KPI для руководства | Power BI, SQL |
 | [Прогнозирование спроса](ссылка) | ML модель для оптимизации запасов | Scikit-learn, Pandas |
 | [ETL пайплайн](ссылка) | Автоматизация сбора и обработки данных | Python, SQL, BeautifulSoup |
+
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
