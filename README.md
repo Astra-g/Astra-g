@@ -23,7 +23,7 @@
 |--------|----------|-------------|
 | [Анализ A/B теста](ссылка) | Статистическая проверка гипотез для нового функционала | Python, Pandas, SciPy, Plotly |
 | [Дашборд продаж](ссылка) | Интерактивная визуализация KPI для руководства | Power BI, SQL |
-| [Прогнозирование опасной формы зависимости](ссылка) | ML модель для определния уровня зависимости подростков от телефона | Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn |
+| [Прогнозирование уровня зависимости] (https://github.com/Astra-g/ML_teen_phone_addiction/blob/c7f173d83e97ebb7c60ea0aa0470976a78ce9f15/ML_teen_phone_addiction.ipynb) | ML модель для определния уровня зависимости подростков от телефона | Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn |
 | [ETL пайплайн](ссылка) | Автоматизация сбора и обработки данных | Python, SQL, BeautifulSoup |
 
 
