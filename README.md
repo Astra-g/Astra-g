@@ -22,8 +22,8 @@
 | Проект | Описание | Инструменты |
 |--------|----------|-------------|
 | [Анализ A/B теста](ссылка) | Статистическая проверка гипотез для нового функционала | Python, Pandas, SciPy, Plotly |
-| [Дашборд аренд](rental_films.pbix) /(https://github.com/Astra-g/rental_films.pbix/tree/e1abb62f901f281c11f890a8b073f249bece94a4)| Интерактивная визуализация KPI для руководства | Power BI, Power Query |
-| [Прогнозирование уровня зависимости] ((https://github.com/Astra-g/ML_teen_phone_addiction.git)) | ML модель для определния уровня зависимости подростков от телефона | Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn |
+| [Дашборд аренд](rental_films.pbix) (https://github.com/Astra-g/rental_films.pbix.git)| Интерактивная визуализация KPI для руководства | Power BI, Power Query |
+| [Прогнозирование уровня зависимости] (https://github.com/Astra-g/ML_teen_phone_addiction.git) | ML модель для определния уровня зависимости подростков от телефона | Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn |
 | [ETL пайплайн](ссылка) | Автоматизация сбора и обработки данных | Python, SQL, BeautifulSoup |
 
 
